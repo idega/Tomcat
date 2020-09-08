@@ -1,2 +1,2 @@
 # Tomcat
-Tomcat
+Tomcat configuration example
